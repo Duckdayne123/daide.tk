@@ -1,1 +1,84 @@
-const _0xd2d56=_0x520b;function _0x8ba1(){const _0x52a11f=['77796hcQxCb','active','close','https://nhantien.momo.vn/','addEventListener','fastTransfer','\x22\x20class=\x22bank-logo\x22>\x0a\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22bank-info\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<p\x20class=\x22bank-name\x22>','937233OUdRkA','classList','btn-show-modal','.modal','name','</p>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<p\x20class=\x22bank-number\x22>STK:\x20','click','owner','copy','\x22>Copy</span>\x0a\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09','796072syYwia','.banks','70kLqczc','querySelectorAll','.bank','body','forEach','innerHTML','1958622FDDKXb','3UFIJfd','Copy','execCommand','hasOwnProperty','createElement','.btn-show-modal','getAttribute','\x0a\x09\x09\x09\x09\x09\x09<div\x20class=\x22bank\x22>\x0a\x09\x09\x09\x09\x09\x09\x09<img\x20src=\x22','textContent','15hkxwvg','blur','removeChild','value','113598rMCfjB','querySelector','\x22\x20data-number=\x22','add','Copied','appendChild','remove','textarea','379092FUsBIa','#transfer','number','2207856bQvTOU'];_0x8ba1=function(){return _0x52a11f;};return _0x8ba1();}function _0x520b(_0x346292,_0x11ded4){const _0x8ba11f=_0x8ba1();return _0x520b=function(_0x520b16,_0x145ac3){_0x520b16=_0x520b16-0x9e;let _0x5b7c18=_0x8ba11f[_0x520b16];return _0x5b7c18;},_0x520b(_0x346292,_0x11ded4);}(function(_0x23958b,_0x151363){const _0x187aeb=_0x520b,_0x1156e1=_0x23958b();while(!![]){try{const _0x5533e2=parseInt(_0x187aeb(0xc5))/0x1*(parseInt(_0x187aeb(0x9f))/0x2)+parseInt(_0x187aeb(0xb2))/0x3+parseInt(_0x187aeb(0xa7))/0x4*(-parseInt(_0x187aeb(0xce))/0x5)+parseInt(_0x187aeb(0xc4))/0x6+-parseInt(_0x187aeb(0xaa))/0x7+-parseInt(_0x187aeb(0xbc))/0x8+parseInt(_0x187aeb(0xab))/0x9*(parseInt(_0x187aeb(0xbe))/0xa);if(_0x5533e2===_0x151363)break;else _0x1156e1['push'](_0x1156e1['shift']());}catch(_0x25d3fe){_0x1156e1['push'](_0x1156e1['shift']());}}}(_0x8ba1,0x29a15));const elmContainer=document[_0xd2d56(0xa0)]('.container'),elmBanks=document[_0xd2d56(0xa0)](_0xd2d56(0xbd)),modal=document['querySelector'](_0xd2d56(0xb5));function RenderBanks(_0x2cb2bf=[]){const _0x326474=_0xd2d56;let _0x1fb684='';_0x2cb2bf[_0x326474(0xc2)](_0x135aaf=>{const _0x2a5144=_0x326474;let _0x4a9f09=_0x135aaf[_0x2a5144(0xc8)]('fastTransfer')&&_0x135aaf[_0x2a5144(0xb0)]?_0x2a5144(0xb4):'';_0x1fb684+=_0x2a5144(0xcc)+_0x135aaf['logo']+_0x2a5144(0xb1)+_0x135aaf[_0x2a5144(0xb6)]+_0x2a5144(0xb7)+_0x135aaf['number']+'</p>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<p\x20class=\x22bank-owner\x22>CTK:\x20'+_0x135aaf[_0x2a5144(0xb9)]+'</p>\x0a\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09\x09<span\x20class=\x22btn-copy\x20'+_0x4a9f09+_0x2a5144(0xa1)+_0x135aaf[_0x2a5144(0xa9)]+_0x2a5144(0xbb);}),elmBanks[_0x326474(0xc3)]=_0x1fb684;}function CopyEvent(){const _0x2eb031=_0xd2d56,_0x36f46b=document[_0x2eb031(0xbf)]('.btn-copy');_0x36f46b[_0x2eb031(0xc2)](_0x258e06=>{_0x258e06['addEventListener']('click',_0x3e328d=>{const _0x132cb6=_0x520b;_0x36f46b['forEach'](_0x4db3e3=>_0x4db3e3[_0x132cb6(0xcd)]=_0x132cb6(0xc6));let _0x4818e4=_0x258e06['getAttribute']('data-number'),_0x1f1d1f=document[_0x132cb6(0xc9)](_0x132cb6(0xa6));_0x1f1d1f[_0x132cb6(0x9e)]=_0x4818e4,document[_0x132cb6(0xc1)][_0x132cb6(0xa4)](_0x1f1d1f),_0x1f1d1f['select'](),document[_0x132cb6(0xc7)](_0x132cb6(0xba)),document[_0x132cb6(0xc1)][_0x132cb6(0xd0)](_0x1f1d1f),_0x258e06[_0x132cb6(0xcd)]=_0x132cb6(0xa3);});});}function MouseLeaveEvent(){const _0x5ec40a=_0xd2d56,_0x1368d6=document['querySelectorAll'](_0x5ec40a(0xc0));_0x1368d6[_0x5ec40a(0xc2)](_0x39b6da=>{const _0x4d084f=_0x5ec40a;_0x39b6da[_0x4d084f(0xaf)]('mouseleave',_0x29318e=>{const _0x2fa4a4=_0x4d084f;let _0x59ead0=_0x39b6da[_0x2fa4a4(0xa0)]('.btn-copy');_0x59ead0[_0x2fa4a4(0xcd)]=_0x2fa4a4(0xc6);});});}function ShowModalEvent(){const _0x2ea99e=_0xd2d56,_0x1c41db=document[_0x2ea99e(0xbf)](_0x2ea99e(0xca));_0x1c41db[_0x2ea99e(0xc2)](_0x5a6220=>_0x5a6220['addEventListener'](_0x2ea99e(0xb8),_0x39fcc0=>{const _0x1441d7=_0x2ea99e;let _0x3ebb49=_0x5a6220[_0x1441d7(0xcb)]('data-number');ShowModal(_0x3ebb49),_0x5a6220[_0x1441d7(0xcd)]='Copied';}));}function ShowModal(_0x30c5dc=0x37c601b0){const _0x2cc697=_0xd2d56;modal[_0x2cc697(0xb3)][_0x2cc697(0xa2)](_0x2cc697(0xac)),elmContainer[_0x2cc697(0xb3)][_0x2cc697(0xa2)](_0x2cc697(0xcf)),modal[_0x2cc697(0xa0)](_0x2cc697(0xa8))[_0x2cc697(0xaf)](_0x2cc697(0xb8),_0x1ee360=>{const _0x530dcf=_0x2cc697;let _0x4885d6=_0x530dcf(0xae)+_0x30c5dc,_0x54c32e=window['open'](_0x4885d6,'_blank');modal['querySelector']('#dismiss')['click'](),setTimeout(()=>{const _0x3c83ca=_0x530dcf;_0x54c32e[_0x3c83ca(0xad)]();},0x7d0);});}function CloseModalEvent(){const _0x402ff4=_0xd2d56;modal['querySelector']('#dismiss')[_0x402ff4(0xaf)]('click',_0x5bf4d7=>{const _0x338537=_0x402ff4;modal[_0x338537(0xb3)][_0x338537(0xa5)](_0x338537(0xac)),elmContainer[_0x338537(0xb3)][_0x338537(0xa5)](_0x338537(0xcf));});}
+
+const elmContainer = document.querySelector('.container');
+const elmBanks = document.querySelector('.banks');
+const modal = document.querySelector('.modal');
+
+/* ===== RENDER ===== */
+function RenderBanks(banks = []) {
+    let htmlBanks = '';
+    banks.forEach(bank => {
+        let classShowModal = (bank.hasOwnProperty('fastTransfer') && bank.fastTransfer) ? 'btn-show-modal' : '';
+        htmlBanks += `
+						<div class="bank">
+							<img src="${bank.logo}" class="bank-logo">
+							<div class="bank-info">
+								<p class="bank-name">${bank.name}</p>
+								<p class="bank-number">STK: ${bank.number}</p>
+								<p class="bank-owner">CTK: ${bank.owner}</p>
+							</div>
+							<span class="btn-copy ${classShowModal}" data-number="${bank.number}">Copy</span>
+						</div>
+					`;
+    });
+    elmBanks.innerHTML = htmlBanks;
+}
+
+/* ===== EVENT ===== */
+function CopyEvent() {
+    const elmCopies = document.querySelectorAll('.btn-copy');
+    elmCopies.forEach(btn => {
+        btn.addEventListener('click', e => {
+            elmCopies.forEach(elm => elm.textContent = 'Copy');
+            let number = btn.getAttribute('data-number');
+            let temp = document.createElement('textarea');
+            temp.value = number;
+            document.body.appendChild(temp);
+            temp.select();
+            document.execCommand('copy');
+            document.body.removeChild(temp);
+            btn.textContent = 'Copied';
+        });
+    })
+}
+
+function MouseLeaveEvent() {
+    const elmBank = document.querySelectorAll('.bank');
+    elmBank.forEach(bank => {
+        bank.addEventListener('mouseleave', e => {
+            let btn = bank.querySelector('.btn-copy');
+            btn.textContent = 'Copy';
+        });
+    });
+}
+
+function ShowModalEvent() {
+    const elmShowModals = document.querySelectorAll('.btn-show-modal');
+    elmShowModals.forEach(btn =>
+        btn.addEventListener('click', e => {
+            let number = btn.getAttribute('data-number');
+            ShowModal(number);
+            btn.textContent = 'Copied';
+        })
+    );
+}
+
+/* ===== MODAL ===== */
+function ShowModal(number = 0869161198) {
+    modal.classList.add('active');
+    elmContainer.classList.add('blur');
+    modal.querySelector('#transfer').addEventListener('click', e => {
+        let link = 'https://nhantien.momo.vn/' + number;
+        let newWindow = window.open(link, '_blank');
+        modal.querySelector('#dismiss').click();
+        setTimeout(() => {
+            newWindow.close();
+        }, 2000)
+    });
+}
+
+function CloseModalEvent() {
+    modal.querySelector('#dismiss').addEventListener('click', e => {
+        modal.classList.remove('active');
+        elmContainer.classList.remove('blur');
+    });
+}
