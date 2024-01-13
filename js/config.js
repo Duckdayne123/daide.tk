@@ -1,1 +1,50 @@
-function _0x20df(){const _0x420d63=['4329765CcRhRy','412JmNOKq','62010001446581','46614JqioLZ','MOMO','NGUYEN\x20HONG\x20ANH\x20DUC','00000166098','./images/vcb.jpg','./images/tpbank.jpg','19715eroDom','./images/bidv.png','ZALO\x20PAY','0935723340','BIDV','./images/mbbank.png','399FQbKUh','12eQFqCw','36ZhIRIO','3996174lQAqhr','50sCjHYZ','TP\x20BANK','./images/zalopay.png','./images/momo.jpeg','10378080zOmPNh','1032286524','NGUYEN\x20HONG\x20ANH\x20DUC','22786Anixqa','609320gbIeCI','VIETCOMBANK'];_0x20df=function(){return _0x420d63;};return _0x20df();}function _0x2f0a(_0x497640,_0xf363ee){const _0x20df9f=_0x20df();return _0x2f0a=function(_0x2f0ab1,_0x1c59ab){_0x2f0ab1=_0x2f0ab1-0x1c9;let _0x484803=_0x20df9f[_0x2f0ab1];return _0x484803;},_0x2f0a(_0x497640,_0xf363ee);}const _0x1006ec=_0x2f0a;(function(_0x2c5d02,_0x1e7690){const _0xdf45b8=_0x2f0a,_0x194520=_0x2c5d02();while(!![]){try{const _0xf3255b=parseInt(_0xdf45b8(0x1e2))/0x1*(parseInt(_0xdf45b8(0x1cc))/0x2)+parseInt(_0xdf45b8(0x1e1))/0x3+-parseInt(_0xdf45b8(0x1d0))/0x4*(parseInt(_0xdf45b8(0x1d8))/0x5)+parseInt(_0xdf45b8(0x1d2))/0x6*(parseInt(_0xdf45b8(0x1de))/0x7)+parseInt(_0xdf45b8(0x1cd))/0x8*(-parseInt(_0xdf45b8(0x1e0))/0x9)+-parseInt(_0xdf45b8(0x1c9))/0xa+-parseInt(_0xdf45b8(0x1cf))/0xb*(-parseInt(_0xdf45b8(0x1df))/0xc);if(_0xf3255b===_0x1e7690)break;else _0x194520['push'](_0x194520['shift']());}catch(_0x12ec85){_0x194520['push'](_0x194520['shift']());}}}(_0x20df,0xf1977));const USER={'banks':[{'name':'MB\x20BANK','logo':_0x1006ec(0x1dd),'number':'11112222456789','owner':_0x1006ec(0x1d4)},{'name':_0x1006ec(0x1dc),'logo':_0x1006ec(0x1d9),'number':_0x1006ec(0x1d1),'owner':'NGUYEN\x20HONG\x20ANH\x20DUC'},{'name':_0x1006ec(0x1ce),'logo':_0x1006ec(0x1d6),'number':_0x1006ec(0x1ca),'owner':'NGUYEN\x20HONG\x20ANH\x20DUC'},{'name':_0x1006ec(0x1e3),'logo':_0x1006ec(0x1d7),'number':_0x1006ec(0x1d5),'owner':_0x1006ec(0x1d4)},{'name':_0x1006ec(0x1d3),'logo':_0x1006ec(0x1e5),'number':'0935723340','owner':_0x1006ec(0x1cb),'fastTransfer':!![]},{'name':_0x1006ec(0x1da),'logo':_0x1006ec(0x1e4),'number':_0x1006ec(0x1db),'owner':_0x1006ec(0x1cb)}]};
+const USER = {
+    banks: [
+      
+      {
+            name: "MB BANK",
+            logo: "./images/mbbank.png",
+            number: "11112222456789",
+            owner: "NGUYEN HONG ANH DUC"
+        },
+              {
+            name: "BIDV",
+            logo: "./images/bidv.png",
+            number: "62010001446581",
+            owner: "NGUYEN HONG ANH DUC",
+            
+        },
+       
+      
+      {
+            name: "VIETCOMBANK",
+            logo: "./images/vcb.jpg",
+            number: "1032286524",
+            owner: "NGUYEN HONG ANH DUC"
+        },
+      
+      
+      {
+            name: "TP BANK",
+            logo: "./images/tpbank.jpg",
+            number: "00000166098",
+            owner: "NGUYEN HONG ANH DUC"
+        },
+      
+        {
+            name: "MOMO",
+            logo: "./images/momo.jpeg",
+            number: "0935723340",
+            owner: "NGUYỄN HỒNG ANH ĐỨC",
+            fastTransfer: true
+        },
+               {
+            name: "ZALO PAY",
+            logo: "./images/zalopay.png",
+            number: "0935723340",
+            owner: "NGUYỄN HỒNG ANH ĐỨC",
+            
+        },
+       
+    ]
+};
