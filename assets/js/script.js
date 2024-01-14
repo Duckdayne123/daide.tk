@@ -2,7 +2,7 @@
 'use strict';
 (function () {
 
-  const MienChinh__ = ["ducknha.com","đucknha.vn","xn--ucknha-92a.vn","duckdayne123.github.io/daide.tk", "localhost"];
+  const MienChinh__ = ["ducknha.com","xn--ucknha-92a.vn","đucknha.vn", "localhost"];
 
   const MienHienTai__ = window.location.hostname;
   const CheckDomain__ = MienChinh__.includes(MienHienTai__);
